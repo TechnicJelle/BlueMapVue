@@ -7,7 +7,7 @@ export default {
     maps: {
         title: "Treasure Maps",
         button: "Treasure Maps",
-        tooltip: "List of Treasure Maps"
+        tooltip: "List o' Treasure Maps"
     },
     markers: {
         title: "Xes to mark the spots",

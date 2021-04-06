@@ -23,16 +23,20 @@ export default {
             name: "Nederlands"
         },
         {
+            locale: "en_PT",
+            name: "Pirate Speak"
+        },
+        {
             locale: "pl",
             name: "Polski"
         },
         {
-            locale: "fi",
-            name: "Suomi"
-        },
-        {
             locale: "ru",
             name: "Русский"
+        },
+        {
+            locale: "fi",
+            name: "Suomi"
         },
         {
             locale: "ja",
@@ -46,9 +50,5 @@ export default {
             locale: "zh_TW",
             name: "繁體中文"
         },
-        {
-            locale: "en_PT",
-            name: "Pirate Speak"
-        }
     ]
 }
